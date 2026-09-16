@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Babak 👋
 
-<!--
-**Babak-Bagherzadeh/Babak-Bagherzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer.
 
-Here are some ideas to get you started:
+I chose Front-End because it's where **logic meets emotion** — where code becomes something people can see, feel, and interact with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond the UI, I'm fascinated by **Node.js and the broader JavaScript ecosystem**. I enjoy learning how different pieces of the web fit together and gradually going deeper into the systems behind the applications I build.
+
+I believe good development is not just about making things work.
+It's about making them **clean, understandable, scalable, and maintainable**.
+
+**Always learning. Always building. Always going deeper.**
+
+> *Logic meets emotion at the front end.*
