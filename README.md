@@ -75,11 +75,11 @@ different parts of a web application work together.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/babak-bagherzadeh-154182434">
-  <img src="./assets/icons/LinkedIn.svg" width="38" height="38" alt="LinkedIn" />
+  <img src="./assets/icons/LinkedIn_icon.svg" width="50" height="50" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:babak0101.dev@gmail.com">
-  <img src="./assets/icons/Gmail_icon.svg" width="38" height="38" alt="Email" />
+  <img src="./assets/icons/Gmail_icon.svg" width="50" height="50" alt="Email" />
 </a>
 
 </p>
