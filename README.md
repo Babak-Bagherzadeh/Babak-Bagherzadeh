@@ -66,36 +66,20 @@ different parts of a web application work together.
 
 </p>
 
----
-
-### 🧠 What I Care About
-
-- **Clean Code** — writing code that is easy to understand and maintain.
-- **Scalability** — thinking beyond the first version of an application.
-- **Architecture** — understanding how the pieces fit together.
-- **Reusability** — building components and solutions that can evolve.
-- **Continuous Learning** — always going deeper instead of just learning the surface.
 
 ---
 
-### 🌱 Currently Exploring
-
-I'm continuously deepening my knowledge of the **JavaScript ecosystem**,
-with a particular focus on:
-
-- React & modern React patterns
-- Next.js & modern web architecture
-- TypeScript
-- Node.js
-- Scalable web applications
-- Software architecture and system design
 
 ### 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a type="email" href="https://www.linkedin.com/in/babak-bagherzadeh-154182434">
+  <img src="./assets/icons/LinkedIn.svg" />
+</a>
+
+<a href="mailto:babak0101.dev@gmail.com">
+    <img src="./assets/icons/Gmail_icon.svg"width="50" height="50" alt="E-Mail Address" />
 </a>
 
 </p>
